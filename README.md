@@ -1,6 +1,9 @@
 # my_quiz_app
 
-A new Flutter project.
+My first app built using flutter. It's a quiz app
+This project is a good starting point for new flutter dev. 
+
+Link to the youtube video used: (https://www.youtube.com/watch?v=x0uinJvhNxI&list=WL&index=52)
 
 ## Getting Started
 
